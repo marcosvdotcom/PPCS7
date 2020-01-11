@@ -1,6 +1,6 @@
 # Idaho Black History Timeline #
 
-Using the timeline provided by the Idaho Black History Museum as a stafting point, let's create a digital version.
+Using the timeline provided by the Idaho Black History Museum as a starting point, let's create a digital version.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1DgTiu9gBV06rSPG-5Jj6HKhrMnC2Odtmtx-iT2PT-LI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
