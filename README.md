@@ -5,3 +5,10 @@ Using the timeline provided by the Idaho Black History Museum as a starting poin
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1DgTiu9gBV06rSPG-5Jj6HKhrMnC2Odtmtx-iT2PT-LI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
+# Anna Murray Douglass  #
+
+Using the timeline provided by the Idaho Black History Museum as a starting point, let's create a digital version.
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1FRDlNRmtUJFj0g72IzOM-9AiC5QJcIXEkQHzaikqyRc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+
