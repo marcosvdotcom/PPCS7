@@ -1,6 +1,7 @@
 # Idaho Black History Timeline #
 
-Using the timeline provided by the Idaho Black History Museum as a starting point, let's create a digital version.
+The Idaho Black History Timeline was inspired by the lack of a condensed Black history of Idaho. In this timeline, we showed some of the most important events and African American people in Idaho. The timeline goes from 1805 to 1914. 
+This timeline was made by Jackson, Ty, and Isaac.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1DgTiu9gBV06rSPG-5Jj6HKhrMnC2Odtmtx-iT2PT-LI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
@@ -18,8 +19,3 @@ Using the timeline provided by the Idaho Black History Museum as a starting poin
 # Indigenous History of Idaho #
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=193O-4T9xyiMZSG2iEP9VZW4xM74IK_4R4xYFIndzwCs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-
-
-# TBD Timeline 5 #
-
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1qAaMUrlIaFgPd7uFiBvL5jlgYnA1vfPD6iLVStYwB_A&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
