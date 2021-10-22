@@ -26,3 +26,5 @@ The inspirational history of Idaho feminist history! There was a lot of amazing 
 This next topic is about Indigenous people in Idaho in the 1700s-1900s. We chose this topic because we wanted to talk about the tribes of Idaho and we also wanted to put accurate information on it to the internet. We want to make it easier for a website that gives correct information instead of the wrong answer, a lot of websites have incorrect information (on Indigenous people and history). We worked very hard on this topic and there were times when we were not knowing what to do. But in the end, we pulled it off and we hope you like it.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=193O-4T9xyiMZSG2iEP9VZW4xM74IK_4R4xYFIndzwCs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+  
+ <iframe src="https://spiky-baboon-f11.notion.site/14f91ff0a6a54740b89d82b7134285ff?v=75a6ee49c0d144fd9d012b73391fc6f0"></iframe>
