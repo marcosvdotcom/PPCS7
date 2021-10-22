@@ -27,4 +27,3 @@ This next topic is about Indigenous people in Idaho in the 1700s-1900s. We chose
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=193O-4T9xyiMZSG2iEP9VZW4xM74IK_4R4xYFIndzwCs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
   
- <iframe src="https://spiky-baboon-f11.notion.site/14f91ff0a6a54740b89d82b7134285ff?v=75a6ee49c0d144fd9d012b73391fc6f0"></iframe>
